@@ -1,0 +1,15 @@
+doc_id,titre,type,numero,date,agent_utilisateur,statut_fiche_14_oct,ou_chercher_source_primaire,priorite,jour_cible,responsable,verificateur_1,verificateur_2,statut_verification
+CMR-L-2003-003,Loi portant protection phytosanitaire,loi,2003/003,2003-04-21,Protection des végétaux ; Agronome ; Export,"Trouvée (résumé), à lire en entier",Journal officiel / site du ministère / FAOLEX,P1,J2,,,,non_verifie
+CMR-D-2005-0772-PM,Décret fixant les conditions d'homologation et de contrôle des produits,decret,2005/0772/PM,,Homologation,"Trouvé, texte illisible dans la source, à retrouver",Journal officiel / site du ministère / FAOLEX,P1,J2,,,,non_verifie
+CMR-A-CARBOFURAN,Arrêté interdisant les produits contenant du carbofuran,arrete,à retrouver,,Homologation ; Agronome,"Trouvé, à lire en entier",Journal officiel / site du ministère / FAOLEX,P1,J2,,,,non_verifie
+CEMAC-R-2007-CPAC,Règlement CEMAC portant création du CPAC et règles communes d'homologation,reglement,à retrouver,2007,Homologation,"Trouvé, à lire en entier",Journal officiel / site du ministère / FAOLEX ; site CEMAC,P1,J2,,,,non_verifie
+CMR-L-2024-017,Loi sur la protection des données personnelles,loi,2024/017,2024-12-23,Protection des données,"Trouvée via sources secondaires, articles à vérifier",Journal officiel / site du ministère / FAOLEX,P1,J2,,,,non_verifie
+IPPC-CERT-EXPORT,Arrêtés et décisions sur les certificats phytosanitaires (IPPC),autre,à retrouver,,Export,"Listés, non lus",Site IPPC ; Journal officiel / site du ministère / FAOLEX,P2,J3,,,,non_verifie
+CMR-STRAT-SNIA,Stratégie nationale d'intelligence artificielle (SNIA),strategie,,,"Coordinateur (écarts, alignement)","Trouvée via presse et OCDE, statut final incertain",Ministère concerné ; OCDE (politiques IA),P2,J3,,,,non_verifie
+CMR-L-2010-012,Loi sur la cybersécurité et la cybercriminalité,loi,2010/012,,Protection des données (sécurité),Non vérifiée (citée de mémoire),Journal officiel / site du ministère / FAOLEX,P3,J4,,,,non_verifie
+CMR-L-2010-013,Loi sur les communications électroniques,loi,2010/013,,Protection des données (infrastructure),Non vérifiée (citée de mémoire),Journal officiel / site du ministère / FAOLEX,P3,J4,,,,non_verifie
+INT-CONV-ROTTERDAM,Convention de Rotterdam,convention,,,Homologation ; Export,Non vérifiée (ratification par le Cameroun à contrôler),Texte officiel de la convention ; FAOLEX,P3,J4,,,,non_verifie
+INT-CONV-STOCKHOLM,Convention de Stockholm,convention,,,Homologation,Non vérifiée (ratification par le Cameroun à contrôler),Texte officiel de la convention ; FAOLEX,P3,J4,,,,non_verifie
+INT-CONV-IPPC,Convention internationale pour la protection des végétaux (IPPC),convention,,,Protection des végétaux ; Export,Non vérifiée (ratification par le Cameroun à contrôler),Site IPPC,P3,J4,,,,non_verifie
+INT-CONV-MALABO,Convention de Malabo (Union africaine),convention,,,Protection des données,Non vérifiée (ratification par le Cameroun à contrôler),Site de l'Union africaine,P3,J4,,,,non_verifie
+INT-UA-STRAT-IA,Stratégie continentale de l'Union africaine sur l'IA,strategie,,2024,Coordinateur (écarts),Non vérifiée,Site de l'Union africaine,P3,J4,,,,non_verifie
